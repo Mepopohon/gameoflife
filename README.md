@@ -1,0 +1,2 @@
+# gameoflife
+gameoflife copilot lua
